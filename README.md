@@ -57,4 +57,5 @@ Se estiver usando um editor como o VS Code, você pode abrir o terminal integrad
 Digite o seguinte comando: pip install matplotlib ou pip3 install matplotlib
         
 Estrutura do Arquivo txt
+
 Data: 14/05/2025 | Tipo: AMRAP | Duração: 20.0 minutos | Movimentos: burpees, pull-ups
