@@ -1,4 +1,4 @@
-﻿<title>Manual do Usuário</title>
+Manual do Usuário
 
 
 WOD Tracker
