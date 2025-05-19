@@ -1,0 +1,9 @@
+
+Data: 20 | Tipo: AMRAP | Duração: 20.0 minutos | Movimentos: ok
+Data: 30 | Tipo: AMRAP | Duração: 40.0 minutos | Movimentos: ok
+Data: 35 | Tipo: EMOM | Duração: 20.0 minutos | Movimentos: 7
+Data: 30 | Tipo: FOR TIME | Duração: 30.0 minutos | Movimentos: ok
+
+
+Sugestão de WOD Aleatório: Tipo: AMRAP  Duração: 25 minutos  Movimentos:  Sit-up- Squat- Lunge-
+Data: 29 | Tipo: EMOM | Duração: 40.0 minutos | Movimentos: ok
