@@ -1,7 +1,7 @@
 <h1>Manual do Usuário</h1>
 
 
-WOD Tracker
+<h2>WOD Tracker</h2>
 O WOD Tracker é uma forma prática, utilizando aplicações em Python, para registrar e acompanhar desempenhos em treinos (WODs). O sistema roda no VS Code, armazena os dados localmente em um arquivo(.txt), feito de maneira simples e interativa.
 Funcionalidades
 1. Adicionar treinos:
